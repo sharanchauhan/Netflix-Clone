@@ -1,0 +1,1 @@
+This is a Netflix landing page clone and it is deployed at :- https://sharanchauhan.github.io/Netflix-Clone/
